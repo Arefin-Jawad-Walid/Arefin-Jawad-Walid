@@ -1,14 +1,7 @@
 ![I am programmer ] (https://pbs.twimg.com/profile_banners/1168441485345218562/1568573711/1080x360)
 .
 
-Skills: C,C++
-
 - 🔭 I’m currently working on this page. 
-
-
-
-
-
 
 
 ### Hi there 👋, This is me Walid
@@ -16,7 +9,7 @@ Skills: C,C++
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C / C++
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning C++ 
@@ -30,3 +23,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefin-Jawad-Walid&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Arefin-Jawad-Walid)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ArefinJawad)  
+
