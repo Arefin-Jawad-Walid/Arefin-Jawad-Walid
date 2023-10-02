@@ -1,6 +1,20 @@
+![I am programmer ] (https://instagram.fcgp3-2.fna.fbcdn.net/v/t51.2885-19/293169730_1668337986875000_7896307101468238920_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcgp3-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=BotS9Ho5bLIAX-0VnEt&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBQhajGi_R0REsuIeneYpK-ZMGqkx1k8reQSIgrG63n3A&oe=651EE5A4&_nc_sid=8b3546)
+
+.
+
+Skills: C,C++
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
 ### Hi there 👋, This is me Walid
 #### I am programmer 
-![I am programmer ](s/banner.png)
+
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
