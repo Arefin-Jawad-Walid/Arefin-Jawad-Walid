@@ -1,5 +1,4 @@
-![I am programmer ] https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/302153161_1671251903247681_8032705454276612652_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeHZyb1yjHSrG0Jvh71mqdUAxhWXFpdg0rHGFZcWl2DSsRcmywFDJYWUOJh-NcEIAq6hoBZFD8ZDby-NiVP3SOoX&_nc_ohc=5Jjg1kZlivAAX82JBDN&_nc_ht=scontent.fcgp3-2.fna&oh=00_AfDbC9mMNY5X5wXzeJquoPo0xhJBOn8pewNj5ahcFHb68Q&oe=651FA90B
-
+![I am programmer ] https://twitter.com/ArefinJawad/photo
 .
 
 Skills: C,C++
