@@ -1,4 +1,4 @@
-![I am programmer ] https://pbs.twimg.com/profile_banners/1168441485345218562/1568573711/1080x360
+![I am programmer ] (https://pbs.twimg.com/profile_banners/1168441485345218562/1568573711/1080x360)
 .
 
 Skills: C,C++
